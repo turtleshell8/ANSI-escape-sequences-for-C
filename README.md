@@ -1,2 +1,2 @@
 # ANSI-escape-sequences-for-C
-this is a header file with ansi escape sequences i modifed from another repo i cant find anymore i created it for a console game im making for fun but either hope you like it
+this is a header file with ansi escape sequences i modifed from another repo i cant find anymore i created it for a console game im making for fun but either way hope you like it
